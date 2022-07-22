@@ -1,0 +1,118 @@
+.cards-section {
+  width: 1000px;
+  margin: 0 auto;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  background-color: #d8d8d8;
+  border-radius: 5px;
+}
+
+.title {
+  text-align: center;
+  text-transform: uppercase;
+  color: #ee525a;
+  font-family: sans-serif;
+  font-size: 50px;
+}
+
+.cards {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin-top: 40px;
+  text-align: center;
+}
+
+.card-item {
+  margin: 16px 8px 0;
+}
+
+.card {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  width: 200px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  border-radius: 10px;
+  background-color: white;
+  box-shadow: 0px 1px 5px 0px #3d3c3b;
+}
+
+.card-photo-wrapper {
+  position: relative;
+  overflow: hidden;
+  width: 100px;
+  height: 100px;
+  border: 2px solid #ee525a;
+  border-radius: 50%;
+}
+
+.card-initials {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.card-photo {
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  object-fit: cover;
+  object-position: center;
+}
+
+.card-initials,
+.card-photo{
+  width: 90px;
+  height: 90px;
+  margin: 5px;
+  border-radius: 50%;
+}
+
+.full-name {
+  margin-top: 10px;
+  font-family: sans-serif;
+  font-size: 16px;
+}
+
+.socials {
+  margin-top: 30px;
+}
+
+.social-item {
+  display: inline-block;
+  margin: 0 3px;
+}
+
+.social {
+  color: #f0646b;
+  font-size: 22px;
+}
+
+.choosed {
+  width: 650px;
+  margin: 100px auto 0;
+  padding: 30px 0;
+  background-color: white;
+}
+
+#list-selected-actors{
+  margin-top: 20px;
+}
+
+.selected-actor{
+  margin-top: 5px;
+  text-align: center;
+  font-family: sans-serif;
+  font-size: 20px;
+  cursor: pointer;
+}
+
+.title,
+.selected-actor,
+.full-name{
+  font-weight: bold;
+}

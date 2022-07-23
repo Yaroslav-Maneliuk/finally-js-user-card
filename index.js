@@ -53,7 +53,7 @@ function createCard(user) {
     },
     document.createTextNode(createNameAbbreviation(user)));
 
-  const cardPhoto = createElement(//из-за асинхронности можно не передавать в photoWrapper
+  const cardPhoto = createElement(
     'img',
     {
       classes: ['card-photo'],

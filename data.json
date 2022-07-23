@@ -4,7 +4,7 @@
     "firstName": "Jason",
     "lastName": "Statham",
     "profilePicture":
-      "https://i.pinimg.com/orignals/24/f5/f8/24f5f8ef9f8af9c7e795ff0ba15f6881.jpg",
+      "https://www.themoviedb.org/t/p/original/lldeQ91GwIVff43JBrpdbAAeYWj.jpg",
     "contacts": [
       "https://www.facebook.com/JasonStatham/",
       "https://twitter.com/realjstatham",
@@ -27,7 +27,7 @@
     "firstName": "Emma",
     "lastName": "Stone",
     "profilePicture":
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Emma_Stone_at_he_39th_Mill_Valley_Film_Festival_%28cropped%29.jpg/320px-Emma_Stone_at_the_39th_Mill_Valley_Film_Festival_%28cropped%29.jpg",
+      "https://m.media-amazon.com/images/M/MV5BMjI4NjM1NDkyN15BMl5BanBnXkFtZTgwODgyNTY1MjE@._V1_.jpg",
     "contacts": [
       "https://www.facebook.com/DwayneJohnson",
       "https://www.instagram.com/therock/?hl=ru"
@@ -35,12 +35,13 @@
   },
   {
     "id": 4,
-    "firstName": "Somebody",
-    "lastName": "Tuffak",
-    "profilePicture": null,
+    "firstName": "Добрий день",
+    "lastName": "Everybody",
+    "profilePicture": "https://i.insider.com/61e181ebc5e27c00185b8fed?width=700",
     "contacts": [
-      "https://twitter.com/realjstatham",
-      "https://www.instagram.com/therock/?hl=ru"
+      "https://www.facebook.com/borisjohnson",
+      "https://twitter.com/BorisJohnson?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor",
+      "https://www.instagram.com/borisjohnsonuk/"
     ]
   },
   {
@@ -71,7 +72,7 @@
     "firstName": "Yevgeny",
     "lastName": "Ponasenkov",
     "profilePicture":
-      "https://www.factroom.ru/wp-content/uploads/2019/06/10-faktov-o-evgenii-ponasenkove-kotoryj-svodit-vsekh-s-uma-1250x883.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Ponasenkov_2021.jpg/1200px-Ponasenkov_2021.jpg",
     "contacts": [
       "https://www.facebook.com/Ponasenkov",
       "https://twitter.com/Ponasenkov"
@@ -82,7 +83,7 @@
     "firstName": "Daniel",
     "lastName": "Day-Lewis",
     "profilePicture":
-      "https://i2.wp.com/comicbookdebate.com/wp-content/uploads/2019/07/There20will20be20blood202-750x460.jpg?resize=750%2C460&ssl=1",
+      "https://upload.wikimedia.org/wikipedia/commons/d/dc/Daniel_Day-Lewis_crop.jpg",
     "contacts": [
       "https://www.facebook.com/JasonStatham/",
       "https://twitter.com/realjstatham",
